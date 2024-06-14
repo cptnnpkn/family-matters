@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Campaign notes for Family Matters
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the homepage of our campaign notes. More will be added in the future for your viewing pleasure.
