@@ -32,7 +32,7 @@ frame: DnDBSistain
 
 # [[Sistain]]
 
-Child of [[Merrick Joiner]]
+Child of [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Merrick Joiner]]
 Sibling of [[Vil'gar]] and [[Ar-aw-ka]]
 
 Sistain was adopted by his father at an early age. He was drawn to the library at his father's home and spent many hours each day reading anything that peaked his interest. His father encouraged the intellectual exploration. When Sistain started exploring the arcane arts, his father cautioned him to be careful with the darker side of such knowledge. 

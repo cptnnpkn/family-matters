@@ -13,7 +13,7 @@ campaign: 62.01 Family Matters
 world: Toril
 description: Human father of all the pcs
 ---
-# [[Merrick Joiner[[Merrick Joiner]]]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Merrick Joiner|Merrick Joiner]]
 
 ### [[Merrick Backstory]]
 ![[Merrick Joiner.png]]
@@ -30,7 +30,7 @@ At first, he was reluctant to take on this new role. He missed the thrill of bat
 
 Over time, Merrick became respected and beloved. His students looked up to him as a mentor and a role model, and he took pride in their accomplishments. Though he may have been forced to retire as a warrior, he found a new way to serve, and he knew that he would continue to do so until the end of his days. 
 
-Currently resides at the [[60 Games/62 Campaigns/62.01 Family Matters/62.01.05 Locations/Joiner Estate]].
+Currently resides at the [[60 Games/62 Campaigns/62.01 Family Matters/62.01.05 Locations/Joiner Estate|Joiner Estate]].
 
 
 ###### Letter to the children

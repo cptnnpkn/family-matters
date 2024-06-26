@@ -1,3 +1,3 @@
 # Joiner Estate and grounds
 
-![[content/Family Matters/Joiner Estate Grounds.png]]
+![[content/Joiner Estate Grounds.png]]

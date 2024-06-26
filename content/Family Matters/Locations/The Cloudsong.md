@@ -1,7 +1,7 @@
 
 
 # Main Deck
-![[content/Family Matters/Cloudsong Deck.jpg]]
+![[content/Cloudsong Deck.jpg]]
 
 # Below Deck
-![[content/Family Matters/Cloudsong below Deck.jpg]]
+![[content/Cloudsong below Deck.jpg]]
