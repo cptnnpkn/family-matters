@@ -7,7 +7,7 @@ campaign: 62.01.04 NPCs
 date: 2023-03-16
 description: The home of Merrick Joiner and his adopted children.
 ---
-# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.05 Locations/Joiner Estate]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.05 Locations/Joiner Estate|Joiner Estate]]
 
 ```leaflet
 ### Tutorial: https://youtu.be/54EyMzJP5DU
@@ -45,7 +45,7 @@ darkMode: false
 
 ```dataview
 table description as "Description" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs"
-WHERE contains(type,"npc") or contains(type,"faction") and contains(location,"Joiner Estate")
+WHERE contains(NoteIcon,"npc") or contains(type,"faction") and contains(location,"Joiner Estate")
 SORT file.name ASC
 ```
 

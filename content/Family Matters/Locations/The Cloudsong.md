@@ -1,7 +1,7 @@
 
 
 # Main Deck
-![[Cloudsong Deck.jpg]]
+![[60 Games/61 General D&D/assets/Cloudsong Deck.jpg]]
 
 # Below Deck
-![[Cloudsong below Deck.jpg]]
+![[60 Games/61 General D&D/assets/Cloudsong below Deck.jpg]]
