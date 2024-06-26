@@ -1,15 +1,17 @@
 ---
-type: npc
-faction: 
-location: Joiner Estate
+Faction: Joiner Family
+Gender: Male
+Race: Human
+Age: Unknown (Died in campaign at the age of 58)
+Class: Fighter
+Alignment: Lawful Good
+Character-Role:
+Location: Joiner Estate
+NoteIcon: npc
+Vitality: Deceased
+campaign: 62.01 Family Matters
 world: Toril
-campaign: Toril
-date: 2023-03-08
 description: Human father of all the pcs
-race: human
-gender: male
-class: unknown
-age: unknown (died in campaign at the age of 58)
 ---
 # [[Merrick Joiner[[Merrick Joiner]]]]
 

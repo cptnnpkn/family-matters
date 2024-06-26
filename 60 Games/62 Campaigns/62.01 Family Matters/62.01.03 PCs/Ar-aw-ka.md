@@ -1,19 +1,23 @@
 ---
-type: pc
+NoteIcon: player
+aliases: 
+tags:
+  - player
+Player: Dan
+Role: player
+Class: Fighter
+Race: Human
+level: 5
 hp: 47
 ac: 17
-modifier: 2
-level: 5
-faction: Joiner Family
-location: The Cloudsong
-world: Toril
+modifier: 3
+pasperc: "12"
+status: active
+PlayerKnownLanguages: Common
 campaign: 62.01 Family Matters
-date: 2023-03-08
-description: Human Fighter soldier working with the guards of Neverwinter in a specialist capacity
-race: human
-gender: male
-class: fighter
-age: 23
+world: Toril
+location: The Cloudsong
+faction: Joiner Family
 ---
 # [[Ar-aw-ka]]
 

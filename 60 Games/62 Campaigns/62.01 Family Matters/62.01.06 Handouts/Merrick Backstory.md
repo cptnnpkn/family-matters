@@ -11,7 +11,6 @@ gender:
 class: 
 ---
 # [[Merrick Backstory]]
-![[Merrick Joiner.png]]
 
 Once a fierce warrior, Merrick had seen countless battles, wars, and conflicts. He had fought with valor and bravery, always putting his life on the line for his kingdom and people. He had become a respected and feared fighter, renowned for his skill with a sword and his unwavering loyalty to his country.
 

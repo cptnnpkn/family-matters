@@ -6,7 +6,7 @@ function getThisGameNum (tp) {
     let numOfGames = app.plugins.plugins.dataview.api
         .pages(`"60 Games/62 Campaigns/${thisCampaign}/${thisPrefix}.02 Sessions"`)
         .where(page => {
-            if (page.type === 'session') {
+            if (page.NoteIcon === 'session') {
                 if (page.campaign === thisCampaign) {
                     // console.log('sessionNum: ' + page.sessionNum);
                     return true;

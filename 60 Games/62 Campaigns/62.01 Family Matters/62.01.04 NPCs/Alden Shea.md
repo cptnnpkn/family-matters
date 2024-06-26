@@ -1,14 +1,16 @@
 ---
-type: npc
-faction: House of Inspired Hands
-location: The Cloudsong
-world: Toril
+Faction: House of Inspired Hands
+Gender: Male
+Race: Human
+Age: 36
+Class: Artificer
+Alignment: Good
+Character-Role:
+Location: The Cloudsong
+NoteIcon: npc
+Vitality: Alive
 campaign: 62.01.04 NPCs
-date: 2023-10-25
-description: ""
-race: 
-gender: 
-class:
+world: Toril
 ---
 # [[Alden Shea]]
 

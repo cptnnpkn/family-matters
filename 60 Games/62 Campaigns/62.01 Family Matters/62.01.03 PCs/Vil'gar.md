@@ -1,19 +1,21 @@
 ---
-type: pc
+NoteIcon: player
+aliases:
+tags: player
+Player: Riker
+Role: player
+Class: Ranger
+Race: Half-Elf
+level: 5
 hp: 32
 ac: 16
 modifier: 3
-level: 5
+pasperc: 15
+status: active
+campaign: 62.01 Family Matters
+world: Toril
 faction: Joiner Family
 location: The Cloudsong
-world: Toril
-campaign: 62.01 Family Matters
-date: 2023-03-08
-description: Half-wood elf ranger that struck out on their own.
-race: half-wood elf
-gender: male
-class: ranger
-age: 28
 ---
 # [[Vil'gar]]
 

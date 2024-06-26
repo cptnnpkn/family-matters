@@ -1,16 +1,20 @@
 ---
-type: npc
-faction: House of Inspired Hands
-location: The Cloudsong
-world: Toril
+Faction: House of Inspired Hands
+Gender: Male
+Race: Dragonborn
+Age: 46
+Class: Fighter
+Alignment: Good
+Character-Role: 
+Location: The Cloudsong
+NoteIcon: npc
+Vitality: Alive
 campaign: 62.01 Family Matters
-date: 2023-10-25
-description: Brass dragonborn captain of the Cloudsong. Has short spikes down middle of head and wears simple leather armor.
-race: dragonborn
-gender: male
-class: fighter
+world: Toril
 ---
 # [[Aretik Vorlin]]
+
+Brass dragonborn captain of the Cloudsong. Has short spikes down middle of head and wears simple leather armor.
 
 ![[60 Games/61 General D&D/assets/Aretik.png]]
 

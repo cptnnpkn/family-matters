@@ -1,19 +1,22 @@
 ---
-type: pc
+NoteIcon: player
+aliases: 
+tags:
+  - player
+Player: Scarlet
+Role: player
+Class: Rogue
+Race: Human
+level: 4
 hp: 
 ac: 
 modifier: 1
-level: 4
-faction: Joiner Family
-location: The Cloudsong
-world: Toril
+pasperc: "15"
+status: inactive
 campaign: 62.01 Family Matters
-date: 2023-08-02
-description: Human thief rogue
-race: human
-gender: female
-class: rogue
-age: 22
+world: Toril
+location: The Cloudsong
+faction: Joiner Family
 ---
 # [[Evangeline Constance]]
 

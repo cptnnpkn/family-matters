@@ -1,15 +1,23 @@
 ---
-type: pc
+NoteIcon: player
+aliases: 
+tags:
+  - player
+Player: Bob
+Role: Player
+Class: Wizard
+Race: Dragonborn
+level: 5
+hp: 33
+ac: 12
+modifier: 3
+pasperc: 15
+status: active
+PlayerKnownLanguages: Common, Draconic
+campaign: 62.01 Family Matters
+world: Toril
 faction: Joiner Family
 location: The Cloudsong
-world: Toril
-campaign: 62.01 Family Matters
-date: 2023-03-08
-description: Dragonborn wizard with an indiscriminate view of knowledge.
-race: dragonborn
-gender: male
-class: wizard
-age: 17
 ---
 
 ## Statblock

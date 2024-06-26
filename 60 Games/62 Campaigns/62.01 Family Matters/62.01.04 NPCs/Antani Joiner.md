@@ -1,18 +1,20 @@
 ---
-type: npc
+Faction: Joiner Family
+Gender: Female
+Race: Elf
+Age: 30
+Class: Cleric
+Alignment: Good
+Character-Role: 
+Location: The Cloudsong
+NoteIcon: npc
+Vitality: Alive
+campaign: 62.01 Family Matters
+world: Toril
 hp: 137
 ac: 18
 modifier: 3
 level: 17
-faction: Joiner Family
-location: The Cloudsong
-world: Toril
-campaign: Toril
-date: 2023-03-08
-description: "Elven daughter of Merrick. "
-race: elf
-gender: female
-class: cleric
 ---
 # [[Antani Joiner]]
 ![[Antani Joiner.png]]

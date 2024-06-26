@@ -1,11 +1,11 @@
 ---
-type: location
+NoteIcon: location
 faction: House of Inspired Hands
 location: The Cloudsong
 world: Toril
 campaign: 62.01 Family Matters
 date: 2024-06-25
-description: Airship developed by the House of Inspired Hands of Waterdeep. Project is headed up by [[Quoji Enbatene]] and captained by [[Aretik Vorlin]]. Chief Technology Officer [[Tech Officer]] maintains the ship engine.
+description: Airship developed by the House of Inspired Hands of Waterdeep. Project is headed up by Quoji Enbatene and captained by Aretik Vorlin. Chief Technology Officer Alden Shea maintains the ship engine.
 race: Airship
 gender: Airship
 class: Airship

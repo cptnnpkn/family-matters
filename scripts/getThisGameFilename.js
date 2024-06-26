@@ -5,7 +5,7 @@ module.exports = (params) => {
     let numOfGames = app.plugins.plugins.dataview.api
         .pages(`"60 Games/62 Campaigns/${thisCampaign}/${thisCampaignPrefix}.02 Sessions"`)
         .where(page => {
-            if (page.type === 'session') {
+            if (page.NoteIcon === 'session') {
                 if (page.campaign === thisCampaign) {
                     return true;
                 }

@@ -1,18 +1,21 @@
 ---
-type: npc
+Faction: Joiner Family
+Gender: Male
+Race: Human
+Age: 23
+Class: Druid
+Alignment: Evil
+Character-Role:
+Location: The Cloudsong
+NoteIcon: npc
+Vitality: Alive
+campaign: 62.01 Family Matters
+world: Toril
 hp: 34
 ac: 17
-modifier: 2
-level: 4
-faction: Joiner Family
-location: The Cloudsong
-world: Toril
-campaign: Toril
-date: 2023-03-08
+modifier: 3
+level: 5
 description: Human druid who works with others to maintain the grounds of the Joiner Estate.
-race: human
-gender: male
-class: druid
 ---
 # [[Bryen Joiner]]
 ![[Bryen Joiner.png]]

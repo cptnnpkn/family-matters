@@ -1,5 +1,5 @@
 ---
-type: location
+NoteIcon: location
 faction: Joiner Family
 location: Joiner Estate
 world: Toril

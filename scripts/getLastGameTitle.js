@@ -4,7 +4,7 @@ function lastGameTitle (tp) {
     const titles = app.plugins.plugins.dataview.api
         .pages(`"60 Games/62 Campaigns/${thisWorld}/${thisCampaignPrefix}.02 Sessions"`)
         .where(page => {
-            if (page.type === 'session') {
+            if (page.NoteIcon === 'session') {
                 return true;
             }
         })

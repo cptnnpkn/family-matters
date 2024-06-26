@@ -1,14 +1,17 @@
 ---
-type: npc
-faction: House of Inspired Hands
-location: The Cloudsong
+Faction: House of Inspired Hands
+Gender: Male
+Race: Gnome
+Age: 57
+Class: Cleric
+Alignment: Good
+Character-Role:
+Location: The Cloudsong
+NoteIcon: npc
+Vitality: Alive
+campaign: 62.01 Family Matters
 world: Toril
-campaign: 62.01.04 NPCs
-date: 2023-10-25
 description: Gnome cleric who is head of the airship project test flight
-race: Gnome
-gender: male
-class: cleric
 ---
 # [[Quoji Enbatene]]
 

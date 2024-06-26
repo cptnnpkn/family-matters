@@ -2,7 +2,7 @@ function getNumOfGames(campaign) {
 	let numOfGames = app.plugins.plugins.dataview.api
         .pages(`"60 Games/62 Campaigns/${campaign}"`)
         .where(page => {
-            if (page.type === 'session') {
+            if (page.NoteTpye === 'session') {
                 if (page.campaign === campaign) {
                     return true;
                 }

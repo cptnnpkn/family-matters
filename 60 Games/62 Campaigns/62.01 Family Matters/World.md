@@ -21,8 +21,8 @@ type: world
 
 
 ```dataview
-table summary as "Summary" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.02 Sessions"
-where contains(type,"session")
+table OneLiner as "Summary", fc-date as "Game Date" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.02 Sessions"
+where contains(NoteIcon,"session")
 SORT sessionNum ASC
 ```
 

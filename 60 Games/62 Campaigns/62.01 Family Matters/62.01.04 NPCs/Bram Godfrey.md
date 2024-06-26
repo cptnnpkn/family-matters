@@ -1,18 +1,21 @@
 ---
-type: npc
+Faction: Joiner Family
+Gender: Male
+Race: Human
+Age: 56
+Class: Fighter
+Alignment: Good
+Character-Role: 
+Location: Joiner Estate
+NoteIcon: npc
+Vitality: Alive
+campaign: 62.01 Family Matters
+world: Toril
 hp: 165
 ac: 20
 modifier: 5
 level: 15
-faction: Joiner Family
-location: Joiner Estate
-world: Toril
-campaign: Toril
-date: 2023-03-08
 description: Human fighter that maintains the training of soldiers
-race: human
-gender: male
-class: fighter
 ---
 # [[Bram Godfrey]]
 ![[Bram Godfrey.png]]
