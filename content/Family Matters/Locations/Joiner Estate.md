@@ -1,3 +1,3 @@
-# Joiner Estate and grounds
+### Joiner Estate and grounds
 
 ![[content/Joiner Estate Grounds.png]]
