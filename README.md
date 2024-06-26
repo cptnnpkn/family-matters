@@ -1,18 +1,38 @@
-# Quartz v4
+Hello, Patreons and TTRPG GMs/players!
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+You've stumbled across my TTRPG vault, which is free for all Patreons. It's a vault that includes workflows, scripts, plugins, and reference notes that I use in my own vault, but *specifically* for running and playing tabletop roleplaying games.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Enjoy! 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+-Nicole
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## In this vault
 
-## Sponsors
+Here's what's in this vault so far:
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- Workflows
+	- [[Creating adventures]]
+	- [[Creating World, Session, NPC, and Location notes]]
+	- [[Dungeon23]]
+	- Initiative Tracker custom conditions
+		- All Pathfinder conditions
+		- The One Ring conditions
+		- Cypher System (Numenera) conditions
+- Rules and system information
+	- [[01 Ironsworn Rulebook|Ironsworn Rulebook]]
+	- [[Mörk Borg Tables]] and full rulebook
+	- [[Conditions Appendix|Pathfinder 2e Conditions appendix]]
+	- [[Black Hack Rules]]
+- templates
+	- [[60 Games/61 General D&D/templates/world]]
+	- [[session-gm]]
+	- [[session-player]]
+	- [[TTRPG frontmatter]]
+	- [[npcs in place]]
+	- [[pc]]
+	- [[The One Ring 2e Travel Log]] template. Insert this template when you're on the *Journey Phase*.
+	- TTRPG statblocks
+		- [[stats-5e]]
+		- [[stats-osr]]
+		- [[stats-knave]]
+		- [[stats-numenera-pc]]
