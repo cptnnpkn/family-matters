@@ -24,7 +24,7 @@ Here's what's in this vault so far:
 	- [[Conditions Appendix|Pathfinder 2e Conditions appendix]]
 	- [[Black Hack Rules]]
 - templates
-	- [[60 Games/61 General D&D/templates/world]]
+	- [[60 Games/61 General D&D/templates/world|world]]
 	- [[session-gm]]
 	- [[session-player]]
 	- [[TTRPG frontmatter]]
