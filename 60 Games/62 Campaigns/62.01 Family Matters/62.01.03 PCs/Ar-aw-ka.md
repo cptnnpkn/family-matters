@@ -12,7 +12,8 @@ hp: 47
 ac: 17
 modifier: 3
 pasperc: "12"
-status: active
+Status:
+  - active
 PlayerKnownLanguages: Common
 campaign: 62.01 Family Matters
 world: Toril

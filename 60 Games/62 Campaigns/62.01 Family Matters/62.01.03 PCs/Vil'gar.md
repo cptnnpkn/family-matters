@@ -1,7 +1,8 @@
 ---
 NoteIcon: player
-aliases:
-tags: player
+aliases: 
+tags:
+  - player
 Player: Riker
 Role: player
 Class: Ranger
@@ -11,17 +12,20 @@ hp: 32
 ac: 16
 modifier: 3
 pasperc: 15
-status: active
+Status:
+  - active
 campaign: 62.01 Family Matters
 world: Toril
 faction: Joiner Family
 location: The Cloudsong
 ---
-# [[Vil'gar]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs/Vil'gar]]
 
 ```custom-frames
 frame: DnDBVilgar
 ```
+
+
 ### Character Description
 Dark Brown boots with light brown fur on top. Light brown pants and a bash shirt. A dark Brown hide armor vest with a short sleave on the left side with a Forest Green Vest Cloak. Two dark brown bracers one on each arm and a green quiver with Dark brown straps filled with Arrows on my back. At his waist you see some interesting hilts of swords. They are black with brown straps on the hilt and a beast’s head at the end. You also see that there is no traditional cross guard, it is more of a slant to one side. Brown eyes tanned skinned, a gymnast bod with a Goatee and moustache. Short hair on the side and a little bit longer on top.
 

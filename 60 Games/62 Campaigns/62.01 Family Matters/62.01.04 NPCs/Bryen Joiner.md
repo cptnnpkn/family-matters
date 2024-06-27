@@ -17,7 +17,7 @@ modifier: 3
 level: 5
 description: Human druid who works with others to maintain the grounds of the Joiner Estate.
 ---
-# [[Bryen Joiner]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Bryen Joiner|Bryen]]
 ![[Bryen Joiner.png]]
 #### Character Info
 ```statblock

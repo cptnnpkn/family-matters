@@ -12,7 +12,7 @@ Vitality: Alive
 campaign: 62.01 Family Matters
 world: Toril
 ---
-# [[Aretik Vorlin]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Aretik Vorlin|Aretik]]
 
 Brass dragonborn captain of the Cloudsong. Has short spikes down middle of head and wears simple leather armor.
 

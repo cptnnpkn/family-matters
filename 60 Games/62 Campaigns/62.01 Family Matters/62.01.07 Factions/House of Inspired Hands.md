@@ -1,5 +1,5 @@
 ---
-type: faction
+NoteIcon: faction
 faction: House of Inspired Hands
 location: Waterdeep
 world: Toril
@@ -10,22 +10,15 @@ race:
 gender: 
 class:
 ---
+
+# [[House of Inspired Hands]]
+
 ```dataview
-table description as "Description" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(faction, "House of Inspired Hands")
+TABLE WITHOUT ID link("60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/" + file.name) as "Name", description as "Description" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs"
+WHERE contains(NoteIcon,"npc") and contains(faction, "House of Inspired Hands")
 SORT file.name ASC
 ```
----
-type: 
-faction: 
-location: 
-world: Toril
-campaign: 62.01.04 NPCs
-date: 2024-06-25
-description: ""
-race: 
-gender: 
-class: 
----
-# [[House of Inspired Hands]]
+
+
+
 

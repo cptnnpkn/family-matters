@@ -17,7 +17,7 @@ modifier: 5
 level: 15
 description: Human fighter that maintains the training of soldiers
 ---
-# [[Bram Godfrey]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Bram Godfrey|Bram]]
 ![[Bram Godfrey.png]]
 
 **Description:** A moderately attractive man, he dresses well wearing brown shirts, loose pants, and blazers most of the time. His eyes are likewise blue. His teeth are white and perfect.

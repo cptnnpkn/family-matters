@@ -13,4 +13,4 @@ At first, he was reluctant to take on this new role. He missed the thrill of bat
 
 Over time, Merrick became respected and beloved. His students looked up to him as a mentor and a role model, and he took pride in their accomplishments. Though he may have been forced to retire as a warrior, he found a new way to serve, and he knew that he would continue to do so until the end of his days. 
 
-Resided at the [[Joiner Estate|Joiner Estate]] until his unexpected death on the 19th of Mirtul in the year 1509.
+Resided at the [[content/Family Matters/3. Locations/Joiner Estate|Joiner Estate]] until his unexpected death on the 19th of Mirtul in the year 1509.

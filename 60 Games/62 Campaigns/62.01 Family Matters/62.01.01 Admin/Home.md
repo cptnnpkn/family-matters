@@ -1,14 +1,20 @@
 ---
+world: Toril
+campaign: 62.01 Family Matters
+status: active
+role: dm
+system: 5e
+NoteIcon: world
 osdidianUIMode: preview
 ---
 
 
-> [!cards|4]
-> **[[Map of Faerun]]**
-> [![[Sword-Coast-Map_HighRes.jpg\|sban htiny ctr]]](Map%20of%20Faerun)
+> [!cards|2]
+> **[[Faerun]]**
+> [![[Sword-Coast-Map_HighRes.jpg\|sban htiny ctr]]](Faerun.md)
 > 
-> **[[60 Games/62 Campaigns/62.01 Family Matters/World|World]]**
-> ![[60 Games/62 Campaigns/62.01 Family Matters/World|sban htiny ctr]]
+> **[[60 Games/62 Campaigns/62.01 Family Matters/62.01.01 Admin/World|World]]**
+> ![[60 Games/62 Campaigns/62.01 Family Matters/62.01.01 Admin/World|sban htiny ctr]]
 
 
 > [!infobox]
@@ -21,10 +27,10 @@ SORT file.name DESC
 LIMIT 10
 
 ```dataview
-TABLE WITHOUT ID link(file.name) as "Character Name", Player, Class, Race, level, Role
+TABLE WITHOUT ID link(file.name) as "Character Name", Player, Class, Race, level, Role, Status
 from "60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs"
 where (NoteIcon = "player")
-where (status = "active")
+SORT Status, "Character Name"
 ```
 
 # Recently Modified NPCs
@@ -42,7 +48,7 @@ LIMIT 10
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, government, community-size, size, population
 FROM "60 Games/62 Campaigns/62.01 Family Matters/62.01.05 Locations"
-WHERE (type = "location")
+WHERE (NoteIcon = "location")
 SORT file.mtime DESC
 LIMIT 10
 ```

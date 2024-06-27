@@ -8,24 +8,6 @@ type: world
 ---
 # The World of Toril
 
-## Player Characters
-
-- [[Sistain]]
-- [[Ar-aw-ka]]
-- [[Vil'gar]]
-- [[Evangeline Constance]]
-
-## Sessions
-
-*Put your cursor where the session link should be. Then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm*.
-
-
-```dataview
-table OneLiner as "Summary", fc-date as "Game Date" from "60 Games/62 Campaigns/62.01 Family Matters/62.01.02 Sessions"
-where contains(NoteIcon,"session")
-SORT sessionNum ASC
-```
-
 ## Truths about the campaign/world
 
 *Write down some facts about this campaign or the world that the characters find themselves in.*
@@ -38,14 +20,10 @@ SORT sessionNum ASC
 ## Factions
 
 ```dataview
-TABLE description as "Description" from "60 Games/62 Campaigns/62.01 Family Matters"
-WHERE contains(lower(type),"faction")
+TABLE WITHOUT ID link(file.name) as "Faction", description as "Description" 
+FROM "60 Games/62 Campaigns/62.01 Family Matters/62.01.07 Factions"
 ```
 
-## Custom rules
-
-- [[Character options]]
-- [[House rules]]
 
 ## [[Safety Tools]]
 https://www.fantasynamegenerators.com/dungeons-and-dragons.php

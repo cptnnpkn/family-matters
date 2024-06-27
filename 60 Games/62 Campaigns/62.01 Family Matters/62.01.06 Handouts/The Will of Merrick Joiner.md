@@ -14,7 +14,7 @@ class:
 
 I, [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Merrick Joiner|Merrick Joiner]], being of sound mind and disposing memory, hereby declare this document to be my last will and testament. I have carefully considered my wishes regarding the distribution of my estate and the disposition of certain personal belongings. It is my sincere desire that my children honor and respect these instructions.
 
-1. Executor and Distribution of Estate: I appoint [[Bram Godfrey]] as the executor of my estate. It is their responsibility to ensure that my assets are distributed according to the instructions outlined in this will. In the event that [[Bram Godfrey]] is unable or unwilling to act as executor, the role shall pass to the oldest child who is capable and willing to fulfill the duties.
+1. Executor and Distribution of Estate: I appoint [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Bram Godfrey]] as the executor of my estate. It is their responsibility to ensure that my assets are distributed according to the instructions outlined in this will. In the event that [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Bram Godfrey]] is unable or unwilling to act as executor, the role shall pass to the oldest child who is capable and willing to fulfill the duties.
     
 2. Disposition of My Sword: I bequeath my beloved sword to my children collectively. However, I task them with a specific request that requires their united effort. It is my wish that my children destroy the sword and dispose of it responsibly.
     

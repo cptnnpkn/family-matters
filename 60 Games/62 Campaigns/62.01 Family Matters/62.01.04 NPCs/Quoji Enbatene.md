@@ -13,7 +13,7 @@ campaign: 62.01 Family Matters
 world: Toril
 description: Gnome cleric who is head of the airship project test flight
 ---
-# [[Quoji Enbatene]]
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Quoji Enbatene|Quoji]]
 
 ![[Quoji Enbatene.png]]
 

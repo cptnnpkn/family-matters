@@ -12,16 +12,18 @@ hp:
 ac: 
 modifier: 1
 pasperc: "15"
-status: inactive
+Status:
+  - inactive
 campaign: 62.01 Family Matters
 world: Toril
 location: The Cloudsong
 faction: Joiner Family
 ---
-# [[Evangeline Constance]]
+
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs/Evangeline Constance]]
 
 ```statblock
-name: Evangeline
+name: Evangeline Constance
 size: Medium
 type: Humanoid
 subtype: null

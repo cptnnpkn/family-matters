@@ -3,10 +3,10 @@ NoteIcon: session
 aat-render-enabled: true
 fc-category: Session
 fc-display-name: Session <% tp.user.getThisGameNum(tp) %>
-sessionstatus:
+sessionstatus: 
 type: Session Journal
 sessionDate: <% tp.date.now("YYYY-MM-DD") %>
-players:
+players: 
 Status:
   - ⏳
 OneLiner: 1 Line Summary
@@ -19,7 +19,7 @@ world: <% tp.user.getThisWorld(tp) %>
 sessionNum: <% tp.user.getThisGameNum(tp) %>
 fc-calendar: <% tp.user.getThisWorld(tp) %>
 fc-date: <% tp.user.getThisDate(tp)[0] %>-<% tp.user.getThisDate(tp)[1] %>-<% tp.user.getThisDate(tp)[2] %>
-fc-end:
+fc-end: 
 long_rest: false
 short_rest: false
 ---

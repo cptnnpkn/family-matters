@@ -11,8 +11,9 @@ level: 5
 hp: 33
 ac: 12
 modifier: 3
-pasperc: 15
-status: active
+pasperc: 11
+Status:
+  - active
 PlayerKnownLanguages: Common, Draconic
 campaign: 62.01 Family Matters
 world: Toril
@@ -20,20 +21,14 @@ faction: Joiner Family
 location: The Cloudsong
 ---
 
-## Statblock
-
-```statblock
-monster: Sistain
-```
+# [[60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs/Sistain]]
 
 ```custom-frames
 frame: DnDBSistain
 ```
 
-# [[Sistain]]
-
-Child of [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Merrick Joiner]]
-Sibling of [[Vil'gar]] and [[Ar-aw-ka]]
+Child of [[60 Games/62 Campaigns/62.01 Family Matters/62.01.04 NPCs/Merrick Joiner|Merrick Joiner]]
+Sibling of [[60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs/Vil'gar]], [[Ar-aw-ka]], [[60 Games/62 Campaigns/62.01 Family Matters/62.01.03 PCs/Evangeline Constance]]
 
 Sistain was adopted by his father at an early age. He was drawn to the library at his father's home and spent many hours each day reading anything that peaked his interest. His father encouraged the intellectual exploration. When Sistain started exploring the arcane arts, his father cautioned him to be careful with the darker side of such knowledge. 
 
